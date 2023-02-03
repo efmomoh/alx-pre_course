@@ -1,1 +1,1 @@
-My first readme updated only for this week
+My first readme
